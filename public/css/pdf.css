@@ -1,0 +1,42 @@
+#img1 {
+    float: left;
+}
+h4 {
+    margin-right: 615px;
+}
+#tablef {
+    border-collapse: collapse;
+    width: 80%;
+    border: 1px solid;
+}
+#tablef th {
+    border-collapse: collapse;
+    border: 1px solid;
+}
+#tablef td {
+    border-collapse: collapse;
+    border-right: 1px solid;
+}
+.trb {
+    border-collapse: collapse;
+    border-bottom: 1px solid;
+}
+
+h1 {
+    padding: 20px;
+    display: inline-block;
+    border: 1px solid;
+    text-align: center;
+}
+table {
+    width: 472px;
+    margin-right: 80px;
+}
+#div1 {
+    display: inline-block;
+    margin-right: 400px;
+}
+#div2 {
+    display: inline-block;
+    margin-right: 760px;
+}
